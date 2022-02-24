@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last resolution of the most Christian King in relation to a general peace, and the present miserable estate of Hvngaria and the empire contained in a memorial given in, unto the estates of the empire assembled at Ratisbonne the 26th of July 1683 / by the Count of Crecy plenipotentiary there from his said Christian Majesty ; translated from the French printed copy by a sure hand, and re-printed at London by G. C. Anno Dom. 1683.</title>
+            <author>Crécy, Louis Verjus, comte de, 1629-1709.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49227</idno>
+            <idno type="STC">Wing L3124</idno>
+            <idno type="STC">ESTC R9905</idno>
+            <idno type="EEBO-CITATION">13546288</idno>
+            <idno type="OCLC">ocm 13546288</idno>
+            <idno type="VID">100135</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49227)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100135)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 464:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last resolution of the most Christian King in relation to a general peace, and the present miserable estate of Hvngaria and the empire contained in a memorial given in, unto the estates of the empire assembled at Ratisbonne the 26th of July 1683 / by the Count of Crecy plenipotentiary there from his said Christian Majesty ; translated from the French printed copy by a sure hand, and re-printed at London by G. C. Anno Dom. 1683.</title>
+                  <author>Crécy, Louis Verjus, comte de, 1629-1709.</author>
+                  <author>Louis XIV, King of France, 1638-1715.</author>
+                  <author>Sure hand.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>France --  History --  Louis XIV, 1643-1715 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:100135:1"/>
+            <pb n="1" facs="tcp:100135:1" rendition="simple:additions"/>
+            <head>The Laſt Reſolution of the Moſt Chriſtian King, IN Relation to a General PEACE; and the preſent Miſ<g ref="char:EOLhyphen"/>ſerable Eſtate of <hi>H<g ref="char:V">Ʋ</g>NGARIA</hi> and the EMPIRE: Contained in a Memorial Given in, unto the ESTATES of the EMPIRE Aſſembled at RATISBONNE The 26th of <hi>July</hi> 1683. By the Count of <hi>CRECY</hi> Plenipotentiary there from his ſaid Chriſtain Majeſty.</head>
+            <head>
+               <hi>Tranſlated from the</hi> French <hi>Printed Copy by a ſure Hand, and Re-Printed at</hi> London <hi>by</hi> G. C. <hi>Anno Dom.</hi> 1683.</head>
+            <p>THE Count of <hi>Crecy</hi> Plenipotentiary for the moſt Chriſtian King at the Diet of <hi>Ratisbonne,</hi> anſwering by his Majeſties Order to the Propoſition that was made him the 11th of <hi>July,</hi> in the Name of the Imperial Commiſſion and in the behalf of the Emperor, by <hi>Monſieur</hi> his Commiſſioner, finds himſelf Oblig'd to avouch that his Majeſty having re<g ref="char:EOLhyphen"/>ceived almoſt at the ſame time, the Propoſal and Writing, which had been communicated to this Diet by the Dictatorſhip, the Fourth of this Month, under the Name of the Commiſſion Imperial, has extreamly admir'd at the variance, and almoſt incompatible Contradiction of the two Writings, which he has been very much trubl'd to apprehend, that being ſo near ſo great misfortuns wherewith the Emperor's Eſtates have been threaten'd for
+<pb n="2" facs="tcp:100135:2"/>this long while ſince, and with which they are already at the point of being overwhelm'd as the Propoſal of <hi>Monſieur</hi> the Commiſſary alledges, the Emperors Miniſters ſhould by a Writing ſo far diſtant from all Accommo<g ref="char:EOLhyphen"/>dation as is the Decree of the Imperial Commiſſion, bring into diſpute all that has been for ſo long time tranſacted in the Conferences at <hi>Nimmengen,</hi> reſume the ſame Difficulties which they have been Oblig'd to abandon, and which have been determined after a method the moſt uncontroulable, that could be obſerv'd among Soveraign Princes; think to make it appear, that they did his Majeſty a favour in not demanding Dammages while they deſpoyl him of all that he poſſeſſes by vertue of the Treaties of <hi>Munſter</hi> and <hi>Nimmengen,</hi> and openly demonſtrate a Deſign to kindle a new War in the Empire, inſtead of managing their Affairs to the beſt advantage, and Re-uniting their Forces againſt the Infidels.</p>
+            <p>In a word, ought it not to ſeem very ſtrange, that in one of theſe two Writings that appeared almoſt at one and the ſame time, there ſhould be an acknowledgement of ſtanding in a Preſſing and moſt indiſpenſable neceſſity of the ſpeedy Aſſiſtance of the Princes and Eſtates of the Empire againſt the Inundation of the <hi>Ottoman</hi> Arms, and that in the other there ſhould be nothing of argument left-forgotten to retain and Employ in the very Heart of the Empire, all the Forces of the ſame Princes and the ſame Eſtates, and to ſet them by the Ears one againſt the other?</p>
+            <p>It is an Eaſie thing to make a judgment of this ſo ſurpriſing Variety; For that we cannot attribute the Confeſſion which <hi>Monſieur</hi> the Commiſſary makes in his Propoſal, of the Extremity to which the Emperors Affairs are reduc'd, but to the always too Faithful and too ſincere Providence of a preſſing neceſſity; and the haughty menaces of the Decree of the Im<g ref="char:EOLhyphen"/>perial Commiſſion, but to the Humor of the <hi>Spaniſh</hi> Miniſters, who in<g ref="char:EOLhyphen"/>ſpire them, and the Entire Devotion which the Emperors Miniſter's are Oblig'd to have for a Forraign and diſtant Nation, which never lays to Heart the loſs of <hi>Hungary</hi> nor the Calamities of <hi>Germany,</hi> and which would have the continual Sacrifice which they make of the Intereſts of <hi>Germany</hi> to be look'd upon as a mark of its Grandeur and Puiſſance. But tho upon conſideration onely in its ſelf of the Propoſal which <hi>Monſieur</hi> the Com<g ref="char:EOLhyphen"/>miſſioner had in charge to make, there is no Perſon who may not ſee how little of reaſon it contains, and how little it is to be regarded. Nevertheleſs as his Majeſty is reſolv'd not to let any opportunity paſs of giving the Eſtates of the Empire the marks of his good Intentions, he would have the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> alſo call to mind, that it is now ſome Eight Months ago, when forſee<g ref="char:EOLhyphen"/>ing well, that the Court of <hi>Vienna</hi>'s abandoning themſelves to the Counſels of <hi>Spain</hi> would draw upon it all thoſe misfortunes, wherewith <hi>Hungary</hi> is at preſent afflicted, he apply'd for remedy all thoſe condeſcenſions which in reaſon might be expected from him to reconcile his Differences with the Empire. 'Tis well known, that he was at the beginning willing to have reduc'd all his pretenſions to the onely Poſſeſſion of what he enjoyed the Firſt of <hi>Auguſt,</hi> 1681. And that of <hi>Strasburgh</hi> and its dependencies on this ſide the <hi>Rhine.</hi> And that he Offered to renounce expreſly all his
+<pb n="3" facs="tcp:100135:2"/>other pretenſions, what ever Titles he had or might recover for the time to come.</p>
+            <p>It is alſo to be obſerv'd, that ſince the expiration of the time which he had given for the acceptance of his Offers, he would not take any advantage of the ill Condition of the Affairs of the Empire, and the Eaſie Opportunity which he had to enter <hi>Germany</hi> (had it been no more than the ſuffrages of the Electors, and other well affected Princes) and to remove thoſe Oppoſitions which others made to the Eſtabliſhment of Peace.</p>
+            <p>His Majeſty had reaſon to promiſe to himſelf, that after the Electoral Colledge had concluded, that there could be nothing determin'd upon more advantageous for the welfare and Security of the Empire, than a ſpeedy accommodation with his Majeſty, even upon the Terms which he had pro<g ref="char:EOLhyphen"/>pos'd, therefore that the Court of <hi>Vienna</hi> would ſo much the ſooner conform to the judgment of ſo many Electors and Princes, ſo providently prudent and Zealous for their Country, that while he acted nothing contrary to the good will and liking of the moſt Intereſted, he ſhould thereby Re-unite the whole Empire in the defence of the Territories and Eſtates which be<g ref="char:EOLhyphen"/>long to it. Nevertheleſs that Court wholly Govern'd by the Counſels of the <hi>Spaniards,</hi> and preferring them before the Electors and Princes of the Empire, has rather choſen to leave part of his Forces in the Empire, to ſatisfie the Fantaſtical humors of <hi>Spain,</hi> then receive the Offers which ſeveral Electors and Princes made him of their Forces for his own Defence; and to neglect the care of his Frontiers next to the <hi>Turks,</hi> than deſiſt from that deſign which he had of declaring War againſt his Majeſty Upon this proſpect it is, that that Court has always laboured, by the Credit which it has with ſeveral Princes, and by certain Intrigues, which are but too well known, to prevent the Concurrence of thoſe Princes to the Eſtabliſhment of the Peace, and has alſo been at greater expences in Negotiations to all the Princes of <hi>Europe,</hi> to engage them in Leagues with that Court againſt <hi>France,</hi> then in Warlike Ammunitions and Preparations to put his Armies and Fortreſſes in a condition to make a juſt and vigorous Reſiſtance, when they ſhould be Aſſail'd.</p>
+            <p>In regard therefore that his Majeſty has ſo many proofs of the Evil Intentions of the Imperial Miniſters, and that he is well aſſured, that that Court ſhall no ſooner have patch'd up a Diſhonourable Peace with the <hi>Turks,</hi> which it has been a long time labouring to accompliſh, and which perhaps, it might more eaſily have obtained, if the meanneſs of the Offers had not cauſed the Infidells to conceive greater hopes of winning far more conſiderable advantages by Force, but that they will purſue their Enmity againſt <hi>France;</hi> His Majeſty ſhould be wanting, according to all the rules of prudence in what he owes to his Allies, as alſo to the welfare of his Crown, If he ſhould enter into any Engagement with the Emperor, as he propoſes; rather he Declares the contrary, and that he will reſerve to himſelf the ſame Liberty which he has hitherto adhered to, to take ſuch meaſures as ſhall be moſt agreeable to the Juſtice of his Rights, and his Ob<g ref="char:EOLhyphen"/>ligations to his Allies.</p>
+            <pb n="4" facs="tcp:100135:3" rendition="simple:additions"/>
+            <p>But yet to let all <hi>Europe</hi> ſee how highly his Generoſity is ſenſible of the Deplorable Condition, into which the vaſt Projects of the Court of <hi>Vi<g ref="char:EOLhyphen"/>enna,</hi> have reduc'd the Affairs of Chriſtendom, and to the end he may con<g ref="char:EOLhyphen"/>tribute as much as lyes in him, as well toward an Eſtabliſhment of a good correſpondence with the Empire, as alſo to Re-unite all the Dominions that compoſe it, for the Publick Defence, his Majeſty Declares, that he will not only upon this conſideration forgo all his dammages which of right he may lay claim to, for all his Extraordinary Expences which the Leagues fram'd againſt him by the Intrigues of the Houſe of <hi>Auſtria,</hi> have Oblig'd him to disburſe, and to content himſelf with the ſame Conditions formerly offer'd; But alſo, becauſe he will not give the Princes and Eſtates of the Empire any cauſe to diſquiet themſelves, he is contented to agree to a Truce of Thirty years upon the ſame Conditions which have been propos'd on his part for a definitive accommodation, during which time there may be Opportunity ſufficient, peaceably to find out the means of bringing it to paſs.</p>
+            <p>But in regard his Majeſty is reſolv'd not to be long delayd in uncertainty, he has given Order to the Count of <hi>Crecy</hi> to Declare in his behalf, that he revokes from henceforth all the Offers which he made for the welfare and Advantage of Chriſtendom, if they are not accepted by the Eſtates of the Empire, and the Treaty be not concluded and Sign'd by the End of <hi>Auguſt</hi> next: And to Declare that all the Miſeries that ſhall afflict Chriſtendom for the future ſhall be imputed only to thoſe that refuſe Offers ſo advantageous to the Empire.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at</hi> Ratiſbonne, <date>July <hi>the</hi> 26th 1683.</date>
+               </dateline>
+               <signed>The Count of <hi>CRECY.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>George Croom,</hi> in <hi>Thames-ſtreet,</hi> over againſt <hi>Baynards-Caſtle.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
